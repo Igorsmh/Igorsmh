@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Igorsmh/Igorsmh/raw/main/assets/gif_headergithub.gif" alt="Oi, eu sou o igor">
+</p>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=igorsmh&label=Profile%20views&color=0e75b6&style=flat" alt="igorsmh" /> </p>
 
 - 🖥️ Cientista de Dados
