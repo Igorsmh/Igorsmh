@@ -5,7 +5,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=igorsmh&label=Profile%20views&color=0e75b6&style=flat" alt="igorsmh" /> </p>
 
 - 🖥️ Cientista de Dados
-- 📍 Rio de janeiro, Brasil
+- 📍 Rio de Janeiro, Brasil
 - 🚀 Veja meu portifólio <a href="">aqui</a>. 🚧Em construção🚧
 - 📰 Escrevo sobre minhas análises <a href="">aqui</a>.🚧Em construção🚧
 - 📭 Contato: igorsmh@hotmail.com
