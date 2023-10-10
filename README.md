@@ -6,8 +6,8 @@
 
 - 🖥️ Cientista de Dados
 - 📍 Rio de janeiro, Brasil
-- 🚀 Veja meu portifólio <a href="">aqui</a>.
-- 📰 Escrevo sobre minhas análises <a href="">aqui</a>.
+- 🚀 Veja meu portifólio <a href="">aqui</a>. 🚧Em construção🚧
+- 📰 Escrevo sobre minhas análises <a href="">aqui</a>.🚧Em construção🚧
 - 📭 Contato: igorsmh@hotmail.com
 
 <h3 align="left">Tecnologias que Uso </h3> 
@@ -26,10 +26,11 @@
 <a href="https://medium.com/@igorsmh" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@igorsmh" height="25" width="100" /></a>
 </p>
 
-## 🐍 Minhas Contribuições 🐍
+## 🐍 Python's Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Igorsmh/Igorsmh/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Igorsmh/Igorsmh/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Igorsmh/Igorsmh/output/github-contribution-grid-snake.svg">
 </picture>
 
+_generated with [Platane/snk](https://github.com/Platane/snk)_
