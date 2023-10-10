@@ -26,10 +26,6 @@
 <a href="https://medium.com/@igorsmh" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@igorsmh" height="25" width="100" /></a>
 </p>
 
-<div align="center">
-  <h2>🐍 Minhas Contribuições 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Igorsmh/Igorsmh/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+## 🐍 Minhas Contribuições 🐍
+![snake gif](https://github.com/Igorsmh/Igorsmh/blob/output/github-contribution-grid-snake.gif)
+
