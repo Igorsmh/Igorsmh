@@ -4,7 +4,7 @@
 
 - 🖥️ Cientista de Dados
 - 📍 Rio de Janeiro, Brasil
-- 🚀 Veja meu portifólio <a href="">aqui</a>. 🚧Em construção🚧
+- 🚀 Veja meu portifólio <a href="https://portifolio-igor.notion.site/Seja-bem-vindo-a-ao-meu-Portif-lio-ccd7ed1ff0e849169b8a56f34da4ed04">aqui</a>.
 - 📰 Escrevo sobre minhas análises <a href="">aqui</a>.🚧Em construção🚧
 - 📭 Contato: igorsmh@hotmail.com
 
